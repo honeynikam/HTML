@@ -9,8 +9,7 @@ HTML elements label pieces of content such as "this is a heading", "this is a pa
 <body>
 
 <h2>HTML Image</h2>
-<img src=https://en.wikipedia.org/wiki/Image#/media/File:Image_created_with_a_mobile_phone.png"" alt="Image_created_with_a_mobile_phone.png
-" width="500" height="333">
+img_chania.jpg
 
 </body>
 </html>
