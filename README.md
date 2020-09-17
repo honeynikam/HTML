@@ -18,8 +18,8 @@ HTML elements label pieces of content such as "this is a heading", "this is a pa
 <html>
 <body>
 
-<h1>My Sayali Nikam </h1>
-<p>College - JNEC.</p>
+<h1>I love icecream </h1>
+<p>Mango.</p>
 
 </body>
 </html>
