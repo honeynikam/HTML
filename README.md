@@ -11,7 +11,7 @@ HTML elements label pieces of content such as "this is a heading", "this is a pa
 <body>
 
 <h2>HTML Image</h2>
-<img src="img_chania.jpg" alt="Flowers in Chania" width="460" height="345">
+<img src="index.html.png" alt="index.html" width="460" height="345">
 
 </body>
 </html>
